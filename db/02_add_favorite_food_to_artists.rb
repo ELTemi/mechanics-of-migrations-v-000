@@ -1,4 +1,4 @@
-
+# db/migrate/02_add_favorite_food_to_artists.rb
 
 class AddFavoriteFoodToArtists < ActiveRecord::Migration
   def change
